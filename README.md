@@ -1,3 +1,7 @@
+```
+NAME : KARNAN K
+REF NO : 212222230062
+```
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
@@ -79,16 +83,6 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-
-
-
-## Output  :
-### photo 1:
-![image](https://github.com/karnankasinathan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118787064/d07bc1ba-827f-4790-9261-7a97f3863e7b)
-### photo 2:
-![image](https://github.com/karnankasinathan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118787064/3200b674-76c9-4415-8153-2b2331446751)
-
-## program :
 ```
 #include "main.h"
 void ledblink();
@@ -167,6 +161,17 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif
 ```
+
+
+## Output  :
+### photo 1:
+![1a](https://github.com/karnankasinathan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118787064/79b057cc-64a5-40f2-b94a-e39e38361774)
+
+### photo 2:
+![1b](https://github.com/karnankasinathan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118787064/9da84f92-455a-4051-83bd-9ba69bbc04af)
+
+
+
  
  
  
